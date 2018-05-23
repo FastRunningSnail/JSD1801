@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.entor.bms.book.dao&apos; to &apos;spring-demo/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;bookmgs_JSP&apos;&#x0D;&#x0A;- Destination element: &apos;spring-demo/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;bookmgs_JSP/src/main/java/com.entor.bms.book.dao&apos;" description="Copy package" destination="=spring-demo/src\/main\/java" element1="/src\/main\/java&lt;com.entor.bms.book.dao" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1526443033156" version="1.0"/>
+</session>
