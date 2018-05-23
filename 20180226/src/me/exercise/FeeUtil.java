@@ -1,7 +1,7 @@
 package me.exercise;
 
 public class FeeUtil {
-	public static void fee(Season s, int count) {
+	public static void fee(Season s, int count) { 
 		s.calcFee(count);
 
 	}
