@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.entpr.bms.view&apos; to &apos;com.entor.bms.view&apos;&#x0D;&#x0A;- Original project: &apos;bookms&apos;&#x0D;&#x0A;- Original element: &apos;bookms/src/com.entpr.bms.view&apos;&#x0D;&#x0A;- Renamed element: &apos;bookms/src/com.entor.bms.view&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.entpr.bms.view&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.entpr.bms.view" name="com.entor.bms.view" qualified="false" references="true" stamp="1522056556625" textual="false" version="1.0"/>
+</session>
